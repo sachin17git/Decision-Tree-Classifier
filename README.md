@@ -5,3 +5,5 @@
 ## Data visualisation with decision boundary ----
 
 ## Training set--
+
+![decision tree - trainingset](https://user-images.githubusercontent.com/40026126/44311505-5c4b5500-a406-11e8-8b81-8979ae3f3c18.PNG)
