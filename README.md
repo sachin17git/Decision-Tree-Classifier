@@ -7,3 +7,8 @@
 ## Training set--
 
 ![decision tree - trainingset](https://user-images.githubusercontent.com/40026126/44311505-5c4b5500-a406-11e8-8b81-8979ae3f3c18.PNG)
+
+
+## Testing set--
+
+![decision tree - testingset](https://user-images.githubusercontent.com/40026126/44311506-60777280-a406-11e8-9aa1-38206e59def7.PNG)
